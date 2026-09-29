@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "numerical-root-finding",
+      "title": "Numerical Root Finding",
+      "description": "Implement and compare bisection and Newton-Raphson methods in Python.",
+      "path": "assignments/numerical-root-finding",
+      "dueDate": "2026-10-06",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
